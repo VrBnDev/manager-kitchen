@@ -2,7 +2,7 @@
 
 Aplicativo desenvolvido como trabalho de conclusão de curso da disciplina de "Programação Comercial" no curso de Licenciatura Plena em Informática.
 
-Objetivo do Aplicativo: O Manager Kitchen é um aplicativo voltado para auxiliar o gerenciamento de restaurantes de pequeno porte
+Objetivo do Aplicativo: O Manager Kitchen é um aplicativo voltado para auxiliar o gerenciamento de restaurantes de pequeno porte.
 
 Expectativas de Funcionalidades:
 - Cadastro de Pratos e Bebidas
