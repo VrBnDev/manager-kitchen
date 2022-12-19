@@ -1,1 +1,1 @@
-[ "Homem Aranha", "Capitão América", "Homem de Ferro", "Viúva Negra", "Wanda" ]
+const personagens = [ "Homem Aranha", "Capitão América", "Homem de Ferro", "Viúva Negra", "Wanda" ]
